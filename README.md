@@ -1,24 +1,92 @@
-<h1 align="center">Hi 👋, I'm Varsha Senthil</h1>
-<h3 align="center">A passionate MSc Data Science student at PSG College of Technology, Coimbatore, who is interested about deriving insights from data.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Varsha Senthil - Data Science</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('your-background-image-url.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #ffffff;
+            padding: 20px;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshasethil2003&label=Profile%20views&color=0e75b6&style=flat" alt="varshasethil2003" /> </p>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+        }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshasethil2003" alt="varshasethil2003" /></a> </p>
+        h1, h3 {
+            text-align: center;
+        }
 
-- 🌱 I’m currently learning **Deep Learning**
+        .profile-pic {
+            display: block;
+            margin: 0 auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
 
-- 💬 Ask me about **Machine Learning, Data Analytics and Visualization**
+        .social-icons {
+            text-align: center;
+            margin-top: 20px;
+        }
 
-- 📫 How to reach me **varshasenthil111@gmail.com**
+        .social-icons img {
+            width: 30px;
+            height: 30px;
+            margin: 0 10px;
+            cursor: pointer;
+        }
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mWa3htQa5_WjQPHqLKD5P9GNGJti_y_d/edit](https://docs.google.com/document/d/1mWa3htQa5_WjQPHqLKD5P9GNGJti_y_d/edit)
+        .github-stats {
+            text-align: center;
+            margin-top: 20px;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varsha-senthil-9b9b87245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha-senthil-9b9b87245" height="30" width="40" /></a>
-</p>
+        .github-stats img {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+        .call-to-action {
+            text-align: center;
+            margin-top: 20px;
+        }
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshasenthil2003&show_icons=true&locale=en&layout=compact" alt="varshasenthil2003" /></p>
+        .call-to-action a {
+            color: #ffffff;
+            background-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi 👋, I'm Varsha Senthil</h1>
+        <h3>A passionate MSc Data Science student at PSG College of Technology, Coimbatore, who is interested in deriving insights from data.</h3>
+        <img class="profile-pic" src="https://your-profile-image-url.jpg" alt="Varsha Senthil Profile Picture">
+        <div class="social-icons">
+            <a href="https://linkedin.com/in/varsha-senthil-9b9b87245" target="_blank"><img src="linkedin-icon.svg" alt="LinkedIn"></a>
+            <!-- Add more social icons as needed -->
+        </div>
+        <div class="github-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshasenthil2003&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
+        </div>
+        <div class="call-to-action">
+            <a href="mailto:varshasenthil111@gmail.com">Contact Me</a>
+        </div>
+    </div>
+</body>
+</html>
