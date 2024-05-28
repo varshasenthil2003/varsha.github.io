@@ -83,9 +83,9 @@
 
 ### Projects
 <ul>
-  <li><a href="https://github.com/varshasenthil2003/project1">Project 1</a> - Description of project 1.</li>
-  <li><a href="https://github.com/varshasenthil2003/project2">Project 2</a> - Description of project 2.</li>
-  <li><a href="https://github.com/varshasenthil2003/project3">Project 3</a> - Description of project 3.</li>
+  <li><a href="https://github.com/varshasenthil2003/Smart-Content-Navigator-Article-Recommender-">Smart-Content-Navigator-Multi-Model-Article-Recommender</a> - Created a Python-based smart content recommender using Streamlit, incorporating TF-IDF and decision tree machine learning models for a broad range of article recommendations. Showcased proficiency in decision support methodologies to enhance the overall user experience.</li>
+  <li><a href="https://github.com/varshasenthil2003/AutoSense-Simplifying-Car-Choices-">AutoSense-Simplifying-Car-Choices</a> -Built a Python and Streamlit dashboard for car decision analytics. Includes data preprocessing, exploratory analysis, decision tree models.</li>
+  <li><a href="https://github.com/varshasenthil2003/NeuroInsight-Advanced-EEG-Analytics-Platform-">NeuroInsight-Advanced-EEG-Analytics-Platform</a> -Developed a Python-based EEG analytics platform using Streamlit. Normalized data for consistency, explored ADHD-related patterns, and integrated machine learning model SVM for classification. Implemented spectral clustering for structural insights.</li>
 </ul>
 
 ### 📫 How to Reach Me
