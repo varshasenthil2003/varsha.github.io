@@ -97,8 +97,3 @@
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-### 💡 Fun Fact
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/-Always%20Learning-brightgreen?style=for-the-badge" alt="Always Learning" />
-</p>
