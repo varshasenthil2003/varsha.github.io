@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varshasenthil2003&column=7&theme=onedark" alt="varshasenthil2003" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/varsha-senthil-9b9b87245" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,7 +21,7 @@
 - 💡 Enthusiastic about **exploring new technologies** and applying them to solve real-world problems.
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a> 
@@ -70,20 +64,20 @@
 </p>
 
 ### GitHub Stats
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=varshasenthil2003&show_icons=true&locale=en" alt="varshasenthil2003" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshasenthil2003&theme=default" alt="varshasenthil2003" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshasenthil2003&show_icons=true&locale=en&layout=compact" alt="varshasenthil2003" />
 </p>
 
 ### GitHub Achievements
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=varshasenthil2003&column=7&theme=onedark" alt="varshasenthil2003" />
 </p>
 
@@ -95,7 +89,7 @@
 </ul>
 
 ### 📫 How to Reach Me
-<p align="left">
+<p align="center">
   <a href="mailto:varshasenthil111@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -105,6 +99,6 @@
 </p>
 
 ### 💡 Fun Fact
-<p align="left">
+<p align="center">
   <img align="center" src="https://img.shields.io/badge/-Always%20Learning-brightgreen?style=for-the-badge" alt="Always Learning" />
 </p>
